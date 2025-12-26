@@ -1,16 +1,19 @@
-## Hi there 👋
+# Halo! Saya Rizla👋
 
-<!--
-**Mrnoaim23/Mrnoaim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Saya seorang <b>Software Engineer</b> yang baru mulai terjun dan lagi asik-asiknya ngulik dunia coding. Buat saya, setiap error itu tantangan, dan setiap project (biarpun masih dikit) itu langkah buat jadi lebih jago.
+</p>
 
-Here are some ideas to get you started:
+<p>
+  Repo saya mungkin belum banyak, tapi saya lagi konsisten buat belajar dan nambahin koleksi karya di sini. Fokus saya sekarang adalah paham konsep dasar dengan bener dan nulis kode yang rapi.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lagi fokus belajar:
+* Fundamental programming biar makin kuat.
+* Cara kerja Git biar nggak bingung kalau push kode.
+* Bikin project kecil-kecilan yang penting jadi.
+
+---
+*Kalau mampir ke sini, sapa saya ya! Saya seneng banget kalau ada yang mau kasih masukan atau sekadar diskusi bareng.*
